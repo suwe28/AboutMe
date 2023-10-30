@@ -1,1 +1,1 @@
-# AboutMe
+Hello! I'm Suwethaa a passionate web developer. I love solving problems, continuously learning, and collaborating with teams. With attention to detail and strong communication skills, I strive to exceed expectations. Let's create something amazing together!
